@@ -1,10 +1,10 @@
-asgiref==3.8.1
+asgiref==3.5.2
 atomicwrites==1.4.1
 attrs==22.1.0
 colorama==0.4.6
-Django==4.2.16
-djangorestframework==3.15.2
-drf-nested-routers==0.94.1
+Django==3.2
+djangorestframework==3.12.4
+drf-nested-routers==0.91
 iniconfig==1.1.1
 packaging==21.3
 Pillow==9.3.0
@@ -17,5 +17,3 @@ pytest-pythonpath==0.7.3
 pytz==2022.6
 sqlparse==0.4.3
 toml==0.10.2
-typing_extensions==4.12.2
-tzdata==2024.1
